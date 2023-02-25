@@ -94,7 +94,7 @@ public class PermissionMod {
         config = new Configuration(new File("config/permissionmod.cfg"));
         syncConfig();
 
-        permissionsFile = new File("config/permission/permissions.json");
+        permissionsFile = new File("permissions.json");
         loadPermissions();
     }
 
