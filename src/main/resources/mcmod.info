@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simplepermanager",
+  "name": "Simple Permission Manager",
+  "description": "Make you manage forge permissions easier",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/HaHaWTH",
+  "updateUrl": "",
+  "authorList": ["HeyWTF_IS_That(van_darkholme)"],
+  "credits": "一个简单的权限管理器",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
